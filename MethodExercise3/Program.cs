@@ -16,12 +16,19 @@ namespace MethodExercise3
             PosOrNeg(0);
             PosOrNeg(4);
             PosOrNeg(-5);
-            LegalVoter(18);
-            LegalVoter(17);
             InRange(14);
             InRange(3);
             MultiTable(145);
             MultiTable(54);
+
+            int age;
+            bool cond;
+            do
+            {
+                Console.WriteLine("Enter your age:");
+                cond = int.TryParse(Console.ReadLine(), out age);
+            } while (!cond);
+            LegalVoter(age);
         }
 
         static void ThousandToThousand()
@@ -75,12 +82,11 @@ namespace MethodExercise3
             Console.WriteLine(result);
         }
 
-        static bool LegalVoter(int x)
+        static void LegalVoter(int x)
         {
             string results;
             results = (x >= 18) ? "You're of legal age to vote!" : "Sorry, you're too young to vote.";
             Console.WriteLine(results);
-            return (x >= 18);
         }
 
         static bool InRange(int x)
