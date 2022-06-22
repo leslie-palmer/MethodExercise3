@@ -1,0 +1,16 @@
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\bin\Debug\net5.0\MethodExercise3.exe
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\bin\Debug\net5.0\MethodExercise3.deps.json
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\bin\Debug\net5.0\MethodExercise3.runtimeconfig.json
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\bin\Debug\net5.0\MethodExercise3.runtimeconfig.dev.json
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\bin\Debug\net5.0\MethodExercise3.dll
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\bin\Debug\net5.0\MethodExercise3.pdb
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.csproj.AssemblyReference.cache
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.AssemblyInfoInputs.cache
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.AssemblyInfo.cs
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.csproj.CoreCompileInputs.cache
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.dll
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\refint\MethodExercise3.dll
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.pdb
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\MethodExercise3.genruntimeconfig.cache
+C:\Users\transfats\repos\MethodExercise3\MethodExercise3\obj\Debug\net5.0\ref\MethodExercise3.dll
